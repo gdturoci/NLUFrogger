@@ -1,0 +1,26 @@
+{
+  "FolderOrderSettings":[
+    {"name":"Fonts","order":5,"path":"folders/Fonts.yy",},
+    {"name":"Rooms","order":6,"path":"folders/Rooms.yy",},
+    {"name":"Scripts","order":1,"path":"folders/Scripts.yy",},
+    {"name":"Sprites","order":2,"path":"folders/Sprites.yy",},
+    {"name":"Dangers","order":3,"path":"folders/Sprites/Dangers.yy",},
+    {"name":"Environment","order":4,"path":"folders/Sprites/Environment.yy",},
+    {"name":"Havens","order":2,"path":"folders/Sprites/Havens.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"f_GOFont","order":1,"path":"fonts/f_GOFont/f_GOFont.yy",},
+    {"name":"o_Car","order":5,"path":"objects/o_Car/o_Car.yy",},
+    {"name":"o_Frogger","order":3,"path":"objects/o_Frogger/o_Frogger.yy",},
+    {"name":"o_LaneManager","order":4,"path":"objects/o_LaneManager/o_LaneManager.yy",},
+    {"name":"o_Log","order":6,"path":"objects/o_Log/o_Log.yy",},
+    {"name":"o_Turtle","order":7,"path":"objects/o_Turtle/o_Turtle.yy",},
+    {"name":"s_FroggerDead","order":1,"path":"sprites/s_FroggerDead/s_FroggerDead.yy",},
+    {"name":"s_Grass","order":1,"path":"sprites/s_Grass/s_Grass.yy",},
+    {"name":"s_LogBody","order":2,"path":"sprites/s_LogBody/s_LogBody.yy",},
+    {"name":"s_LogLeftEnd","order":1,"path":"sprites/s_LogLeftEnd/s_LogLeftEnd.yy",},
+    {"name":"s_LogRightEnd","order":3,"path":"sprites/s_LogRightEnd/s_LogRightEnd.yy",},
+    {"name":"s_LongCar","order":1,"path":"sprites/s_LongCar/s_LongCar.yy",},
+    {"name":"s_Sidewalk","order":2,"path":"sprites/s_Sidewalk/s_Sidewalk.yy",},
+  ],
+}
